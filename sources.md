@@ -7,4 +7,5 @@
 * https://pastebin.com/YanxK0Rx
 * https://github.com/mmotti/pihole-regex/blob/master/regex.list
 * https://www.reddit.com/r/pihole/comments/awvk13/can_anyone_recommend_some_good_regex_filters/
+* https://www.reddit.com/r/pihole/comments/b3fj60/regex_megathread/
 * https://github.com/AlRFORCE1/PiHoleRepositorys/blob/master/regex.list (huge list with lots of TLDs)
