@@ -68,10 +68,8 @@
 (^|\.)basketball$
 (^|\.)bayern$
 (^|\.)bcn$
-(^|\.)be$
 (^|\.)beauty$
 (^|\.)beer$
-(^|\.)berlin$
 (^|\.)best$
 (^|\.)bet$
 (^|\.)bible$
@@ -103,7 +101,6 @@
 (^|\.)buzz$
 (^|\.)bz$
 (^|\.)bzh$
-(^|\.)ca$
 (^|\.)cab$
 (^|\.)cafe$
 (^|\.)call$
@@ -127,7 +124,6 @@
 (^|\.)cc$
 (^|\.)center$
 (^|\.)ceo$
-(^|\.)ch$
 (^|\.)channel$
 (^|\.)charity$
 (^|\.)chat$
@@ -147,7 +143,6 @@
 (^|\.)co$
 (^|\.)co.com$
 (^|\.)co.in$
-(^|\.)co.nz$
 (^|\.)co.uk$
 (^|\.)coach$
 (^|\.)codes$
@@ -157,7 +152,6 @@
 (^|\.)com.cn$
 (^|\.)com.co$
 (^|\.)com.mx$
-(^|\.)com.tw$
 (^|\.)community$
 (^|\.)company$
 (^|\.)computer$
@@ -182,9 +176,7 @@
 (^|\.)cricket$
 (^|\.)cruise$
 (^|\.)cruises$
-(^|\.)cx$
 (^|\.)cymru$
-(^|\.)cz$
 (^|\.)dad$
 (^|\.)dance$
 (^|\.)data$
@@ -210,7 +202,6 @@
 (^|\.)directory$
 (^|\.)discount$
 (^|\.)diy$
-(^|\.)dk$
 (^|\.)docs$
 (^|\.)doctor$
 (^|\.)dog$
@@ -231,7 +222,6 @@
 (^|\.)engineering$
 (^|\.)enterprises$
 (^|\.)equipment$
-(^|\.)es$
 (^|\.)esq$
 (^|\.)estate$
 (^|\.)eu.com$
@@ -270,7 +260,6 @@
 (^|\.)forsale$
 (^|\.)forum$
 (^|\.)foundation$
-(^|\.)fr$
 (^|\.)frl$
 (^|\.)fun$
 (^|\.)fund$
@@ -350,20 +339,17 @@
 (^|\.)insure$
 (^|\.)international$
 (^|\.)investments$
-(^|\.)io$
 (^|\.)irish$
 (^|\.)islam$
 (^|\.)ismaili$
 (^|\.)ist$
 (^|\.)istanbul$
-(^|\.)it$
 (^|\.)jetzt$
 (^|\.)jewelry$
 (^|\.)jobs$
 (^|\.)joburg$
 (^|\.)jot$
 (^|\.)joy$
-(^|\.)jp$
 (^|\.)jpn.com$
 (^|\.)juegos$
 (^|\.)kaufen$
@@ -417,7 +403,6 @@
 (^|\.)market$
 (^|\.)marketing$
 (^|\.)mba$
-(^|\.)me$
 (^|\.)me.uk$
 (^|\.)med$
 (^|\.)media$
@@ -457,11 +442,9 @@
 (^|\.)news$
 (^|\.)nf$
 (^|\.)ninja$
-(^|\.)no$
 (^|\.)now$
 (^|\.)nrw$
 (^|\.)nyc$
-(^|\.)nz$
 (^|\.)okinawa$
 (^|\.)one$
 (^|\.)onl$
@@ -469,7 +452,6 @@
 (^|\.)ooo$
 (^|\.)org.in$
 (^|\.)org.nz$
-(^|\.)org.tw$
 (^|\.)org.uk$
 (^|\.)organic$
 (^|\.)osaka$
@@ -503,7 +485,6 @@
 (^|\.)pm$
 (^|\.)poker$
 (^|\.)politie$
-(^|\.)porn$
 (^|\.)press$
 (^|\.)pro$
 (^|\.)productions$
@@ -653,8 +634,6 @@
 (^|\.)training$
 (^|\.)travel$
 (^|\.)tube$
-(^|\.)tv$
-(^|\.)tw$
 (^|\.)uk.com$
 (^|\.)uk.net$
 (^|\.)university$
@@ -688,7 +667,6 @@
 (^|\.)website$
 (^|\.)wedding$
 (^|\.)wf$
-(^|\.)wiki$
 (^|\.)win$
 (^|\.)wine$
 (^|\.)winners$
