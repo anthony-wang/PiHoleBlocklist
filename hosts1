@@ -36,7 +36,9 @@ ccc.sys.miui.com
 cdn.ad.xiaomi.com
 connect.rom.miui.com
 contactapi.micloud.xiaomi.net
+data.mistat.india.xiaomi.com
 data.mistat.intl.xiaomi.com
+data.mistat.us.xiaomi.com
 data.mistat.xiaomi.com
 data.sec.miui.com
 dev.api.zhuti.n.xiaomi.com
@@ -56,6 +58,7 @@ globalapi.ad.xiaomi.com
 log.ad.xiaomi.com
 logupdate.avlyun.sec.miui.com
 m.zhuti.xiaomi.com
+market.mi-img.com
 market.xiaomi.com
 mazu.sec.miui.com
 micloud.xiaomi.net
