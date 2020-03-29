@@ -1,6 +1,6 @@
+10.235.124.13
 10.99.168.145
 10.99.184.96
-10.235.124.13
 a.stat.xiaomi.com
 abtest.mistat.xiaomi.com
 account.preview.n.xiaomi.net
@@ -21,8 +21,9 @@ api.setting.intl.miui.com
 api.vip.miui.com
 api.xiaomi.com
 api.zhuti.xiaomi.com
-app.chat.xiaomi.net
 app.chat.global.xiaomi.net
+app.chat.us.xiaomi.net
+app.chat.xiaomi.net
 app.market.xiaomi.com
 app.mibi.xiaomi.com
 app.xiaomi.com
@@ -72,6 +73,7 @@ onebox.market.n.xiaomi.com
 pdc.micloud.xiaomi.net
 register.xmpush.global.xiaomi.com
 register.xmpush.xiaomi.com
+resolver.msg.global.xiaomi.net
 resolver.msg.xiaomi.net
 ruac.account.xiaomi.com
 sandbox.xmpush.xiaomi.com
@@ -94,11 +96,10 @@ tracking.miui.com
 update.avlyun.sec.miui.com
 us.find.api.micloud.xiaomi.net
 video.intl.xiaomi.com
+weatherapi.market.xiaomi.com
 wifiapi.micloud.xiaomi.net
 www.xiaomi.com
 xiaomi.com
 xiaomi.net
 zeus.ad.xiaomi.com
 zhuti.xiaomi.com
-app.chat.us.xiaomi.net
-weatherapi.market.xiaomi.com
