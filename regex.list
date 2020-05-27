@@ -118,11 +118,13 @@
 (^|\.)casa$
 (^|\.)cash$
 (^|\.)casino$
+(^|\.)cat$
 (^|\.)catering$
 (^|\.)catholic$
 (^|\.)cc$
 (^|\.)center$
 (^|\.)ceo$
+(^|\.)cf$
 (^|\.)channel$
 (^|\.)charity$
 (^|\.)chat$
@@ -205,6 +207,7 @@
 (^|\.)dot$
 (^|\.)download$
 (^|\.)dubai$
+(^|\.)durban$
 (^|\.)dvr$
 (^|\.)earth$
 (^|\.)eat$
@@ -262,6 +265,7 @@
 (^|\.)furniture$
 (^|\.)futbol$
 (^|\.)fyi$
+(^|\.)ga$
 (^|\.)gal$
 (^|\.)gallery$
 (^|\.)game$
@@ -271,6 +275,7 @@
 (^|\.)ged$
 (^|\.)gen.in$
 (^|\.)gent$
+(^|\.)gdn$
 (^|\.)gift$
 (^|\.)gifts$
 (^|\.)gives$
@@ -281,6 +286,7 @@
 (^|\.)gold$
 (^|\.)golf$
 (^|\.)got$
+(^|\.)gq$
 (^|\.)gr.com$
 (^|\.)graphics$
 (^|\.)gratis$
@@ -312,6 +318,7 @@
 (^|\.)homes$
 (^|\.)horse$
 (^|\.)hospital$
+(^|\.)host$
 (^|\.)hosting$
 (^|\.)hot$
 (^|\.)hoteis$
@@ -408,6 +415,7 @@
 (^|\.)men$
 (^|\.)menu$
 (^|\.)miami$
+(^|\.)ml$
 (^|\.)mls$
 (^|\.)mn$
 (^|\.)mobi$
@@ -444,6 +452,7 @@
 (^|\.)onl$
 (^|\.)online$
 (^|\.)ooo$
+(^|\.)org.cn$
 (^|\.)org.in$
 (^|\.)org.nz$
 (^|\.)organic$
@@ -610,6 +619,7 @@
 (^|\.)tips$
 (^|\.)tires$
 (^|\.)tirol$
+(^|\.)tk$
 (^|\.)tl$
 (^|\.)today$
 (^|\.)tokyo$
@@ -665,6 +675,7 @@
 (^|\.)wow$
 (^|\.)ws$
 (^|\.)wtf$
+(^|\.)xin$
 (^|\.)xxx$
 (^|\.)xyz$
 (^|\.)yachts$
