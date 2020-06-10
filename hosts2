@@ -38,15 +38,15 @@ api-watch-sg2.huami.com
 api-watch-us.huami.com
 api-watch-us2.huami.com
 
-account.huami.com
-account-de.huami.com
-account-de2.huami.com
+# account.huami.com
+# account-de.huami.com
+# account-de2.huami.com
 account-in.huami.com
 account-in2.huami.com
 account-sg.huami.com
 account-sg2.huami.com
-account-us.huami.com
-account-us2.huami.com
+# account-us.huami.com
+# account-us2.huami.com
 
 aos-cdn.huami.com
 aos-cdn-de.huami.com
