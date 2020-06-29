@@ -1,3 +1,4 @@
+acroipm2.adobe.com
 armmf.adobe.com
 na1e-acc.services.adobe.com
 cc-api-data.adobe.io
@@ -19,6 +20,8 @@ hlrcv.stage.adobe.com
 
 adobeereg.com
 www.adobeereg.com
+
+accounts.adobe.com
 
 adobe.activate.com
 activate-sea.adobe.com
@@ -64,3 +67,11 @@ na4r.services.adobe.com
 na1r.services.adobe.com
 hlrcv.stage.adobe.com
 
+# https://www.gameindustry.eu/hosts/hosts.php
+cc-api-data.adobe.io
+crlog-crcn.adobe.com
+lcs-cops.adobe.io
+lcs-robs.adobe.io
+licensing.adobe.com
+hbrt.adobe.com
+hbrcv.adobe.com
