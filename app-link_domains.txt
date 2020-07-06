@@ -1,0 +1,12 @@
+# app.link domains
+
+adobeacrobat.test-app.link
+adobeacrobat-alternate.test-app.link
+am-alternate.app.link
+am.app.link
+edx-alternate.test-app.link
+edx.test-app.link
+rsci.app.link
+tb2n-alternate.test-app.link
+tb2n.test-app.link
+udemy-alternate.app.link
