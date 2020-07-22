@@ -60,3 +60,5 @@ control.aps.amap.com
 sina.com
 sina.com.cn
 login.sina.com.cn
+
+cn.app.chat.xiaomi.net
