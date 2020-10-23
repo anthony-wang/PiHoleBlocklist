@@ -1,0 +1,12 @@
+# Normal hosts
+fitgirlrepacks.co
+fitgirl-repacks.cc
+fitgirl-repack.com
+fitgirl-repacks.website
+www.fitgirlrepacks.co
+www.fitgirl-repacks.cc
+www.fitgirl-repack.com
+www.fitgirl-repacks.website
+
+# Regex
+*.fitgirl-repacks.xyz
