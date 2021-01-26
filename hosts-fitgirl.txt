@@ -9,4 +9,4 @@ www.fitgirl-repack.com
 www.fitgirl-repacks.website
 
 # Regex
-((^)|(.))fitgirl-repacks.xyz
+# -> add this in the Regex rules: ((^)|(.))fitgirl-repacks.xyz
