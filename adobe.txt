@@ -44,6 +44,7 @@ practivate.adobe.newoa
 practivate.adobe.ntp
 
 # https://gist.github.com/ookangzheng/8797c83942b983450423704540fd6ea7
+# https://gist.github.com/consti/8022703
 activate.adobe.com
 practivate.adobe.com
 ereg.adobe.com
