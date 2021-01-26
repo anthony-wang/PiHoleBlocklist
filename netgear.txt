@@ -1,0 +1,23 @@
+# Bunch of Netgear domains (snooped from my Network router)
+advisor.ngxcld.com
+dht.transmissionbt.com
+genieremote.netgear.com
+http.fw.updates1.netgear.com
+peerevent-prod.netgear.com
+peernetwork.netgear.com
+peernotification-prod.netgear.com
+presence.ngxcld.com
+registration.ngxcld.com
+updates1.netgear.com
+updates2.netgear.com
+updates3.netgear.com
+
+# Might break ReadyCLOUD / ReadySHARE, block at your own risk!
+# Especially ReadyCLOUD is used by Netgear NAS, AFAIK
+readycloud.netgear.com
+readyshare.netgear.com
+
+# This will definitely break things
+# The router pings this like every 10 minutes!
+#www.netgear.com
+#netgear.com
