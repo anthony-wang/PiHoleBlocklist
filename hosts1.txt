@@ -1,19 +1,26 @@
+# open.account.xiaomi.com
 10.235.124.13
 10.99.168.145
 10.99.184.96
 a.stat.xiaomi.com
+abtest.mistat.intl.xiaomi.com
 abtest.mistat.xiaomi.com
+account.intl.xiaomi.com
 account.preview.n.xiaomi.net
 account.xiaomi.com
 adv.sec.intl.miui.com
 adv.sec.miui.com
+api.account.intl.xiaomi.com
 api.account.preview.n.xiaomi.net
 api.account.xiaomi.com
+api.ad.intl.xiaomi.com
 api.ad.xiaomi.com
 api.admob.xiaomi.com
+api.chat.xiaomi.net
 api.d.xiaomi.com
 api.developer.xiaomi.com
 api.hybrid.xiaomi.com
+api.miui.security.intl.xiaomi.com
 api.miui.security.xiaomi.com
 api.sec.intl.miui.com
 api.sec.miui.com
@@ -24,6 +31,7 @@ api.zhuti.xiaomi.com
 app.chat.global.xiaomi.net
 app.chat.us.xiaomi.net
 app.chat.xiaomi.net
+app.market.intl.xiaomi.com
 app.market.xiaomi.com
 app.mibi.xiaomi.com
 app.xiaomi.com
@@ -49,9 +57,11 @@ dev.staging.api.developer.n.xiaomi.com
 drm.market.xiaomi.com
 e.ad.xiaomi.com
 feedback.miui.com
+file.market.intl.xiaomi.com
 file.market.xiaomi.com
 find.api.micloud.xiaomi.net
 flash.sec.intl.miui.com
+game.intl.xiaomi.com
 game.xiaomi.com
 geofence.sys.miui.com
 global.market.xiaomi.com
@@ -60,6 +70,7 @@ globalapi.ad.xiaomi.com
 log.ad.xiaomi.com
 logupdate.avlyun.sec.miui.com
 m.zhuti.xiaomi.com
+market.intl.xiaomi.com
 market.mi-img.com
 market.xiaomi.com
 mazu.sec.miui.com
@@ -67,10 +78,12 @@ micloud.xiaomi.net
 miui.com
 miui.net
 new.api.ad.xiaomi.com
+notice.game.intl.xiaomi.com
 notice.game.xiaomi.com
+o2o.api.intl.xiaomi.com
+o2o.api.xiaomi.com
 onebox.api.zhuti.n.xiaomi.com
 onebox.market.n.xiaomi.com
-# open.account.xiaomi.com
 pdc.micloud.xiaomi.net
 register.xmpush.global.xiaomi.com
 register.xmpush.xiaomi.com
@@ -97,6 +110,8 @@ tracking.miui.com
 update.avlyun.sec.miui.com
 us.find.api.micloud.xiaomi.net
 video.intl.xiaomi.com
+wallpaper.pandora.intl.xiaomi.com
+wallpaper.pandora.xiaomi.com
 weatherapi.market.xiaomi.com
 wifiapi.micloud.xiaomi.net
 www.xiaomi.com
