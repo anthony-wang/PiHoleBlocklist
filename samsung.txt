@@ -1,0 +1,14 @@
+# https://d3ward.github.io/toolz/adblock.html
+
+ad.samsungadhub.com
+samsungadhub.com
+ad.samsungads.com
+samsungads.com
+smetrics.samsung.com
+nmetrics.samsung.com
+samsung-com.112.2o7.net
+business.samsungusa.com
+analytics.samsungknox.com
+bigdata.ssp.samsung.com
+analytics-api.samsunghealthcn.com
+config.samsungads.com

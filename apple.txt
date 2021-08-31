@@ -1,0 +1,7 @@
+# https://d3ward.github.io/toolz/adblock.html
+
+metrics.apple.com
+securemetrics.apple.com
+supportmetrics.apple.com
+metrics.icloud.com
+metrics.mzstatic.com
