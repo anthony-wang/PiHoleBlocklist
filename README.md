@@ -1,9 +1,13 @@
+
+
 # PiHoleBlocklist
 
 ## Blocklist for Xiaomi and related domains
 `hosts1` - Gathered this from various online sources
 
 `hosts2` - Made this list myself after snooping my cellphone's traffic
+
+`hosts3` - Collected blocklists for Xiaomi / Huami / MIUI
 
 
 ## Blocklist for annoying online ads
